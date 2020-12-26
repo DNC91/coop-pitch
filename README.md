@@ -4,6 +4,11 @@ guia con enlaces al lanzamiento de emprendimientos cooperativos alrededor del mu
 Enlaces a grupos de programacion en whatsapp
 
 
+El arte de programar : grupo general sobre ciencias de la computación y lenguajes de programación
+https://chat.whatsapp.com/J6tRMiNFUai3tMuOnH4QxN
+
+
+
 Programación en COBOL
 https://chat.whatsapp.com/DlnB8LNTUkfJHfueCv1AIj
 
@@ -18,3 +23,4 @@ https://chat.whatsapp.com/KKPaY8YNqGsKl84HczW41X
 
 Programación en CSS
 https://chat.whatsapp.com/CjaoXhDX3UM2QOYdoeAKgT
+
