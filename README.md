@@ -24,3 +24,8 @@ https://chat.whatsapp.com/KKPaY8YNqGsKl84HczW41X
 Programación en CSS
 https://chat.whatsapp.com/CjaoXhDX3UM2QOYdoeAKgT
 
+
+
+enlaces con guias
+
+https://github.com/ECB-Bikaner/google-guide-to-technical-development
